@@ -1,0 +1,23 @@
+{
+  "registries": [
+    {
+      "kind": "git",
+      "repository": "https://github.com/FISCO-BCOS/registry",
+      "baseline": "f82318534e608f25220df9ad0501cc2860aa6eb0",
+      "packages": [
+        "openssl",
+        "evmone",
+        "evmc",
+        "tarscpp",
+        "ethash",
+        "intx",
+        "fiscobcos",
+        "etcd-cpp-apiv3",
+        "boost-context",
+        "wedprcrypto",
+        "jemalloc",
+        "secp256k1"
+      ]
+    }
+  ]
+}
